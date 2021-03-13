@@ -1,0 +1,75 @@
+* {font-family: 'Akaya Telivigala', cursive;
+/*display: inline-block*/}
+body{
+  font-family:"arial";
+ background: url(images/elal-plane.jpg);
+  background-size: cover;background: linear-gradient "52deg, blue, white";
+
+  text-align: center;
+  border: 5px solid rgba(255,170,170,1);
+  /* background: radial-gradient(cyan, white); */
+}
+
+li{
+
+  font-weight: bold;
+  color: red;
+    padding: 45px;
+    border: 15px purple;
+    border-style: groove double;
+    margin: 30px;
+  background-color: beige;
+font-size: 35px;
+
+  cursor: auto;
+}
+
+body { color: brown ;
+text-align:  center;
+/* border: 3px solid rgba(215,20,170); */
+}
+h1, h2{
+  background-color: beige;
+  border: 6px solid rgba(255, 255, 0, 0.5);
+text-shadow: 2px 2px aqua;
+text-decoration:underline overline red dotted;
+font-size: 3em;
+}
+h1, h2:hover{
+  background-color: orange;
+}
+
+.button {
+  color: #FFF;
+  background-color: #5995DA;    /* Blue */
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5D6063;    /* Dark gray */
+  border-radius: 5px;
+
+  width: 200px;
+  margin: 20px auto;
+}
+.button-challenge {
+  font-style: italic;
+  background-color: #EEB75A;
+}
+  .page {
+  background-color: rgba(10,10,10, 0.5);width: auto;
+  }
+
+  a:link {
+  color: magenta;
+  text-decoration: none;
+}
+a:visited {
+  color: gold;
+}
+a:hover {
+  color: aqua;
+  text-decoration: underline; font-style: oblique;font-size: 25px;
+}
+a:active {
+  color: orange;font-style: italic;text-shadow: 3px px black;text-decoration: underline;
+}
